@@ -1,3 +1,80 @@
 * {
   box-sizing: border-box;
 }
+
+#page-title {
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:#400040;
+  background-color: #000dff;
+  margin-top:0px;  
+  padding: 50px;
+  border: 2px solid #000dff;
+}
+
+#quip{
+color: grey;
+}
+
+.profile-img{
+  border: 6px solid #c927ff;
+  border-radius: 900px;
+
+}
+
+main{
+  background-color: #058be4;
+  padding: 160px;
+}
+
+
+.card {
+  display: inline-block;
+  background-color: #528b84;
+  vertical-align: top;
+  width:30%;
+  margin: auto 0;
+  margin-left: 40px;
+  padding: 20px;
+  
+}
+
+.profile-card{
+color: pink;
+text-align: center;
+}
+
+.about{
+  display: inline-block;
+ 
+  
+} 
+
+.tag{
+
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#lacewing{
+  width: 50px;
+  height: 50px;
+  border-radius: 90px;
+  border: 2px solid #c927ff;
+}
+
+.contact{
+
+
+}
+
+
+footer{
+  background-color: #000dff;
+  color: grey;
+  padding: 120px;
+  text-align: center;
+
+}
+
+
